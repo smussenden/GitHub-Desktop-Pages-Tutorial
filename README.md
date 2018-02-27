@@ -12,7 +12,7 @@ This tutorial is designed to serve as a very basic introduction to version contr
 
 ## What You Won't Learn
 
-
+## Adding main branch
 using the GitHub Desktop App, GitHub's syntax-highlighting text-editor Atom
 
 
