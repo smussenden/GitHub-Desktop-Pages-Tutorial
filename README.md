@@ -106,6 +106,6 @@ B. The index.html file is now there
 C. The README file text has changed.
 D. Our latest commit message shows up next to the two files we changed.    
 
-7.  Now let's go look at our website, at username.github.io.  It's changed too.  It's now loading the text from the index.html file.  If we make changes to this file in the future, it will change too. 
+7.  Now let's go look at our website, at username.github.io.  It's changed too.  It's now loading the text from the index.html file.  If we make changes to this file in the future, it will change too.
 
 A tutorial on using GitHub Desktop to set up a GitHub Pages Site
