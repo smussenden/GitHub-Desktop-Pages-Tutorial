@@ -9,7 +9,6 @@ This tutorial is designed to serve as a very basic introduction to version contr
 * To use the GitHub Desktop app to "clone" the repo (or make a copy of it on your local machine).
 * To make changes to files in our repo using the Atom text editor, "commit" those changes, and then transmit them back to the remote copy of the repo on Github.com.
 * How to use a free service called [GitHub Pages](https://pages.github.com/) to host a free website.
-* To create a separate "branch" -- a separate copy of your files -- then "merge" those changes back into the main branch.  This is a particularly useful skill when you're working on projects with multiple collaborators.
 * To make a copy of someone else's repo -- a "fork" -- to your own GitHub.com account.
 
 ## What You Won't Learn
@@ -150,4 +149,16 @@ Notice some changes:
 
 ![Screenshot V](screenshots/V.png)
 
-## Step 5: Create a new branch of .
+## Step 5: Make a copy of someone else's repo -- "forking" -- for your own use.
+
+1.  Go to the [Hacks/Hackers repo](https://github.com/HacksHackersDC/propublica-congress-r) for connecting to the ProPublica Congress API in R.
+
+2. In the upper right corner of the page, click the button that says "fork".  This will make a copy of the repo to your GitHub account.
+
+![Screenshot fork](screenshots/fork.png)
+
+3. Now go back to GitHub desktop and from the top-bar menu choose File > Clone Repository.  Then go back to the directions above to clone the new repo.  
+
+
+
+--The END--
